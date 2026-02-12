@@ -11,7 +11,7 @@
 set background=light
 
 hi clear
-let g:colors_name = 'shine'
+let g:colors_name = 'sakuradesert'
 
 let s:t_Co = has('gui_running') ? 16777216 : str2nr(&t_Co)
 let s:tgc = has('termguicolors') && &termguicolors
